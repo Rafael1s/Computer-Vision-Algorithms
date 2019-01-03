@@ -19,7 +19,7 @@ The metod drawMatches connects the keypoints in the training image
 with their best matching keypoints in the query image,
 the result images are in the subdirectory 'match_keypoints'.
 
-1) ORB_alg_part4_RotateInv.py designed to
+1) ORB_alg_part4_RotateInv.py 
    * get keypoints for the image face.jpeg and its rotated case faceR.jpeg       
    * compare obtained keypoints, see the result file rotate_match_keypoints.png
 
