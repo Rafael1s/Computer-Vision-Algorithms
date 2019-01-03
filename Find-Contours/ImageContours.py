@@ -28,6 +28,7 @@ gray = cv2.cvtColor(image_copy, cv2.COLOR_BGR2GRAY)
 
 #plt.imshow(gray, cmap='gray')
 
+#must be = 240, 255
 retval, binary = cv2.threshold(gray, 240, 255, cv2.THRESH_BINARY_INV)
 
 #plt.imshow(binary, cmap='gray')
@@ -35,7 +36,7 @@ retval, binary = cv2.threshold(gray, 240, 255, cv2.THRESH_BINARY_INV)
 
 rerval, contours, hierarchy = \
       cv2.findContours(binary, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
-
+      
 image_copy2 = np.copy(image_copy)
 
 ''' -1 means all the contours '''
@@ -65,7 +66,8 @@ def orientations(contours):
         # Fit an ellipse to a contour and extract the angle from that ellipse
         #print('type.of.contour: ', type(contours[i]))
         #print('numb.of.elem.in.countour: ', len(contours[i]))
-        #if (len(contours[i])) >= 50:
+        # must be > 50
+        if (len(contours[i])) >= 50:
            print(' contour.number: ', i, 'numb.of.elem.in.countour: ', len(contours[i]))
            (x,y), (MA,ma), angle = cv2.fitEllipse(contours[i])
            angles.append(angle)
