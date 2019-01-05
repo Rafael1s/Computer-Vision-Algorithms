@@ -16,7 +16,9 @@ These are several projects I developed as a part of
 
 [Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
 
+[Pooling Layer of CNN, Different Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Pooling-Layer-CNN)
+
 # Environment
 
-Make sure that Python and libraries numpy, cv2, matplotlab, os  are installed.
+Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*   are installed.
 You can find the additional info about every project in the corresponding README file. 
