@@ -18,6 +18,8 @@ These are several projects I developed as a part of
 
 [Pooling Layer of CNN, Different Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Pooling-Layer-CNN)
 
+[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Edge-Detectors)
+
 # Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*   are installed.
