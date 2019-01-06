@@ -1,0 +1,64 @@
+with batch_size = 30, epoch=5
+
+Epoch: 1, Batch: 10, Avg. Loss: 0.6321009039878845
+Epoch: 1, Batch: 20, Avg. Loss: 0.5813413321971893
+Epoch: 1, Batch: 30, Avg. Loss: 0.564596164226532
+Epoch: 1, Batch: 40, Avg. Loss: 0.526435261964798
+Epoch: 1, Batch: 50, Avg. Loss: 0.47289074063301084
+Epoch: 1, Batch: 60, Avg. Loss: 0.5012515187263489
+Epoch: 1, Batch: 70, Avg. Loss: 0.4193779230117798
+Epoch: 1, Batch: 80, Avg. Loss: 0.34093393087387086
+Epoch: 1, Batch: 90, Avg. Loss: 0.276958030462265
+Epoch: 1, Batch: 100, Avg. Loss: 0.26557058840990067
+Epoch: 1, Batch: 110, Avg. Loss: 0.2016465425491333
+
+Epoch: 1, Batch: 110, Avg. Loss: 0.2016465425491333
+Epoch: 2, Batch: 10, Avg. Loss: 0.21277468055486679
+Epoch: 2, Batch: 20, Avg. Loss: 0.18704942762851715
+Epoch: 2, Batch: 30, Avg. Loss: 0.19221989214420318
+Epoch: 2, Batch: 40, Avg. Loss: 0.18988066911697388
+Epoch: 2, Batch: 50, Avg. Loss: 0.1637329451739788
+Epoch: 2, Batch: 60, Avg. Loss: 0.19224084615707399
+Epoch: 2, Batch: 70, Avg. Loss: 0.17984986454248428
+Epoch: 2, Batch: 80, Avg. Loss: 0.16525387316942214
+Epoch: 2, Batch: 90, Avg. Loss: 0.1968224048614502
+Epoch: 2, Batch: 100, Avg. Loss: 0.19909383058547975
+Epoch: 2, Batch: 110, Avg. Loss: 0.1963209718465805
+
+Epoch: 3, Batch: 10, Avg. Loss: 0.17577061355113982
+Epoch: 3, Batch: 20, Avg. Loss: 0.2123414993286133
+Epoch: 3, Batch: 30, Avg. Loss: 0.17252932190895082
+Epoch: 3, Batch: 40, Avg. Loss: 0.2064639687538147
+Epoch: 3, Batch: 50, Avg. Loss: 0.18161199986934662
+Epoch: 3, Batch: 60, Avg. Loss: 0.19376053512096406
+Epoch: 3, Batch: 70, Avg. Loss: 0.21042498126626014
+Epoch: 3, Batch: 80, Avg. Loss: 0.20025934278964996
+Epoch: 3, Batch: 90, Avg. Loss: 0.19080387353897094
+Epoch: 3, Batch: 100, Avg. Loss: 0.16815239787101746
+Epoch: 3, Batch: 110, Avg. Loss: 0.192778317630291
+
+Epoch: 4, Batch: 10, Avg. Loss: 0.21919731721282004
+Epoch: 4, Batch: 20, Avg. Loss: 0.20205463320016862
+Epoch: 4, Batch: 30, Avg. Loss: 0.17723491564393043
+Epoch: 4, Batch: 40, Avg. Loss: 0.20716652721166612
+Epoch: 4, Batch: 50, Avg. Loss: 0.21430780366063118
+Epoch: 4, Batch: 60, Avg. Loss: 0.18645645678043365
+Epoch: 4, Batch: 70, Avg. Loss: 0.17967930138111116
+Epoch: 4, Batch: 80, Avg. Loss: 0.1829717516899109
+Epoch: 4, Batch: 90, Avg. Loss: 0.1804936908185482
+Epoch: 4, Batch: 100, Avg. Loss: 0.22927746772766114
+Epoch: 4, Batch: 110, Avg. Loss: 0.21729068011045455
+
+Epoch: 5, Batch: 10, Avg. Loss: 0.17602075934410094
+Epoch: 5, Batch: 20, Avg. Loss: 0.2028236448764801
+Epoch: 5, Batch: 30, Avg. Loss: 0.1805504947900772
+Epoch: 5, Batch: 40, Avg. Loss: 0.23502791672945023
+Epoch: 5, Batch: 50, Avg. Loss: 0.18542465269565583
+Epoch: 5, Batch: 60, Avg. Loss: 0.18680960386991502
+Epoch: 5, Batch: 70, Avg. Loss: 0.18934646099805832
+Epoch: 5, Batch: 80, Avg. Loss: 0.18179553896188735
+Epoch: 5, Batch: 90, Avg. Loss: 0.1837478131055832
+Epoch: 5, Batch: 100, Avg. Loss: 0.2196523979306221
+Epoch: 5, Batch: 110, Avg. Loss: 0.19987940043210983
+
+Finished Training

@@ -1,0 +1,15 @@
+with batch_size = 68, epoch=2
+
+Epoch: 1, Batch: 10, Avg. Loss: 0.5758547604084014
+Epoch: 1, Batch: 20, Avg. Loss: 0.577000868320465
+Epoch: 1, Batch: 30, Avg. Loss: 0.5379567116498947
+Epoch: 1, Batch: 40, Avg. Loss: 0.4897919028997421
+Epoch: 1, Batch: 50, Avg. Loss: 0.4582147181034088
+
+Epoch: 2, Batch: 10, Avg. Loss: 0.3530385971069336
+Epoch: 2, Batch: 20, Avg. Loss: 0.2804876670241356
+Epoch: 2, Batch: 30, Avg. Loss: 0.2253428116440773
+Epoch: 2, Batch: 40, Avg. Loss: 0.20174392759799958
+Epoch: 2, Batch: 50, Avg. Loss: 0.21376195549964905
+
+Finished Training
