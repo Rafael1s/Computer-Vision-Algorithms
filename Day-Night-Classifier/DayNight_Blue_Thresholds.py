@@ -21,12 +21,6 @@ import helpers
 import numpy as np
 import matplotlib.pyplot as plt
 
-'''Training and Testing Data
-The 92 day/night images are separated into training and testing datasets.
-
-52 of these images are training images, for you to use as you create a classifier.
-40 are test images, which will be used to test the accuracy of your classifier.
-First, we set some variables to keep track of some where our images are stored'''
 
 '''First, we set some variables to keep track of some where our images are stored:'''
 image_dir_training = "day_night_images/training/"
@@ -70,20 +64,13 @@ print("Shape: "+str(selected_image.shape))
 print("Label [1 = day, 0 = night]: " + str(selected_label))
 
 
-'''Feature Extraction
-Create a feature that represents the brightness in an image. 
-We'll be extracting the average brightness using HSV colorspace.
- Specifically, we'll use the V channel (a measure of brightness),
- add up the pixel values in the V channel, then divide that sum 
- by the area of the image to get the average Value of the image.
-
+'''
 Find the average brightness using the V channel
 This function takes in a standardized RGB image and returns
  a feature (a single value) that represent the average level of 
  brightness in the image. We'll use this value to classify
  the image as day or night.
 '''
-
 # Find the average Value or brightness of an image
 def avg_brightness(rgb_image):
     # Convert image to HSV

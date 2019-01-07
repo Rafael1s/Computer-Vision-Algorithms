@@ -12,18 +12,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ''' 1. Classify day and night images
-    2. Visualize the misclassified imagess
-''' 
+    2. Visualize the misclassified imagess ''' 
 
-
-'''Training and Testing Data
-The 92 day/night images are separated into training and testing datasets.
-
-52 of these images are training images, for you to use as you create a classifier.
-40 are test images, which will be used to test the accuracy of your classifier.
-First, we set some variables to keep track of some where our images are stored'''
-
-
+'''First, we set some variables to keep track of some where our images are stored'''
 
 # Image data directories
 image_dir_training = "day_night_images/training/"
