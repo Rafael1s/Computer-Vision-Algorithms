@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ''' 
-1. Show HSV channels for one day image'
+1. Display HSV channels for one day image'
 2. Testing average brightness levels'''
 
 
