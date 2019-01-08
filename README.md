@@ -10,15 +10,17 @@ These are several projects I developed as a part of
 
 [Hough transform to detect straigt lines](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Algorithm-HoughTransform) 
 
+[Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
+
+[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Edge-Detectors)
+
 [Find contours and their directions](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Find-Contours)
 
 [AdaBoost frontal face detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Haar-Cascades)
 
-[Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
-
 [Pooling Layer of CNN, Different Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Pooling-Layer-CNN)
 
-[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Edge-Detectors)
+[Project 1:  Facial Key Ponts](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
 
 # Environment
 
