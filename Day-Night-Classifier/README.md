@@ -1,6 +1,6 @@
 
 ## Training and Testing Data
-The 220 day/night images are separated into training and testing datasets.
+The 288 day/night images are separated into training and testing datasets.
 
 160 of these images are training images to create a classifier.
 128 are test images, which will be used to test the accuracy of classifier. 
