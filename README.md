@@ -18,9 +18,9 @@ These are several projects I developed as a part of
 
 [AdaBoost frontal face detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Haar-Cascades)
 
-[Pooling Layer of CNN, Different Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Pooling-Layer-CNN)
+[FashionMNIST Convolution Network](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/FashionMNIST-CNN)
 
-[Project 1:  Facial Key Ponts](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
+[Project 1:  Facial Key Ponts CNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
 
 # Environment
 
