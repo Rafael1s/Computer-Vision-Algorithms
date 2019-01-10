@@ -20,7 +20,7 @@ image_copy = cv2.cvtColor(image_copy, cv2.COLOR_BGR2RGB)
 
 gray = cv2.cvtColor(image_copy, cv2.COLOR_RGB2GRAY)
 
-#plt.imshow(gray, cmap = 'gray')
+'''The operators Sobel_x and sobel_y look as follows.'''
 
 sobel_x = np.array([[-1, 0, 1],
                     [-2, 0, 2],

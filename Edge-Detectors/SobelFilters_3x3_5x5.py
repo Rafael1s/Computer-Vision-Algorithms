@@ -27,14 +27,9 @@ plt.imshow(gray, cmap='gray')
 
 '''
 TODO: Create a custom kernel
-Below, you've been given one common type of edge detection filter: a Sobel operator.
-
-The Sobel filter is very commonly used in edge detection and 
-in finding patterns in intensity in an image.
- Applying a Sobel filter to an image is a way of taking (an approximation) 
- of the derivative of the image in the x or y direction, separately. 
- The operators look as follows.
-
+Below, you've been given one common type of edge detection filter:
+a Sobel operator.
+ 
 It's up to you to create a Sobel x operator and apply it to the given image.
 
 For a challenge, see if you can put the image through a series of filters:
