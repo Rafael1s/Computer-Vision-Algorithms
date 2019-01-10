@@ -10,7 +10,7 @@ These are several projects I developed as a part of
 
 [Hough transform to detect straigt lines](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Algorithm-HoughTransform) 
 
-[Canny Edge Detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Canny-Edge-Detector)
+[Steps of Canny Edge Detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Canny-Edge-Detector)
 
 [Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
 
