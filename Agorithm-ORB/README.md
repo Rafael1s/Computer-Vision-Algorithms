@@ -42,6 +42,7 @@ We explore each of the main properties of the ORB algorithm:
    * Connect the keypoints in the training image with their best matching keypoints
      in the query image. The best matches correspond to the first elements 
      in the sorted matches list, since they are the ones with the shorter distance
+   * compare obtained keypoints, see the result file scale_match_keypoints.png
      
  ORB_alg_part4_RotateInv.py 
    * get keypoints for the image face.jpeg and its rotated case faceR.jpeg       
