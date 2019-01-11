@@ -1,7 +1,11 @@
 # Computer Vision Nanodegree Udacity
 
-These are several projects I developed as a part of
-  [Udacity Computer Vision Nanodegree Program.](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+Here you can find several small (and slightly larger) subprojects dedicated 
+
+to the well-known Computer Vision approaches and algorithms. These subprojects 
+
+are developed as part of the [Udacity Computer Vision Nanodegree course.](https://www.udacity.com/course/computer-vision-nanodegree--nd891) 
+
   
 # Projects 
   Your can view and launch the following Python projects:
