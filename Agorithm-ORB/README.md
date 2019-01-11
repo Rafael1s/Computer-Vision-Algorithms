@@ -1,4 +1,8 @@
 
+ 
+Again, in order to see the properties of the ORB algorithm more clearly, 
+in the following examples we will use the same image as our training and query image.
+
 ## Fast Local Feature Detector ORB
 
 Oriented FAST and rotated BRIEF (ORB) is a fast robust local feature detector, 
@@ -26,15 +30,28 @@ with their best matching keypoints in the query image,
 the result images are in the subdirectory 'match_keypoints'.
 
 ## ORB Invariance Properties
-1) ORB_alg_part4_RotateInv.py 
+We explore each of the main properties of the ORB algorithm:
+
+ * Scale Invariance
+ * Rotational Invariance
+ * Illumination Invariance
+ * Noise Invariance
+
+ ORB_alg_part3_ScaleInv
+   * get keypoints for the image face.jpeg and its rotated case faceQS.jpeg     
+   * Connect the keypoints in the training image with their best matching keypoints
+     in the query image. The best matches correspond to the first elements 
+     in the sorted matches list, since they are the ones with the shorter distance
+     
+ ORB_alg_part4_RotateInv.py 
    * get keypoints for the image face.jpeg and its rotated case faceR.jpeg       
    * compare obtained keypoints, see the result file rotate_match_keypoints.png
    
-2) ORB_alg_part6_NoiseInv.py
+ ORB_alg_part6_NoiseInv.py
    * get keypoints for the image face.jpeg and its rotated and noised case faceRN5.jpeg       
    * compare obtained keypoints, see the result file match_noise_keypoints.png
 
-3) ORB_alg_part7_ObjectDet.py 
+ ORB_alg_part7_ObjectDet.py 
    * find the face in the image Team.jpeg
    * gets keypoints for the image face.jpeg and its mapping in faceRN5.jpeg       
    * compare obtained keypoints, see the result file  team_match_leypoints.jpeg
