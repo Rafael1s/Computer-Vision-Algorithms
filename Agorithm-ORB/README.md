@@ -1,6 +1,6 @@
 
  
-Again, in order to see the properties of the ORB algorithm more clearly, 
+In order to see the properties of the ORB algorithm more clearly, 
 in the following examples we will use the same image as our training and query image.
 
 ## Fast Local Feature Detector ORB
