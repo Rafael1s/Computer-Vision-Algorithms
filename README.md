@@ -28,7 +28,10 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [Project 1:  Facial Key Ponts CNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
 
+[YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/YOLOv3_implementation)
+
 # Environment
 
-Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*   are installed.
+Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
+
 You can find the additional info about every project in the corresponding README file. 
