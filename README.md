@@ -33,4 +33,5 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 # Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
+
 You can find the additional info about every project in the corresponding README file. 
