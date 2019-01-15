@@ -12,7 +12,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ''' 
-1. Display HSV channels for one day image'
+1. Show HSV channels for one day image'
 2. Testing average brightness levels'''
 
 
@@ -93,14 +93,15 @@ ax4.imshow(v, cmap='gray')
 # what average brightness value separates the two types of images
 
 # As an example, a "night" image is loaded in and its avg brightness is displayed'''
-image_num = 40
+image_num = 140
 test_im = STANDARDIZED_LIST[image_num][0]
 
 avg = avg_brightness(test_im)
-ax5.set_title('Night image: ' + str(image_num))
+br_night = "= {:6.2f}".format(avg)
+ax5.set_title('Night, Brigtness: ' +  str(br_night))
 ax5.imshow(test_im)
 
-print('Avg brightness for image ', image_num, "= {:6.2f}".format(avg))
+print('Avg brightness for image ', image_num, br_night)
 
 numb_day_im = 0
 numb_night_im = 0
