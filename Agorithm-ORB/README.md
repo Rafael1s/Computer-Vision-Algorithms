@@ -42,7 +42,7 @@ We explore each of the main properties of the ORB algorithm:
    * Connect the keypoints in the training image with their best matching keypoints
      in the query image. The best matches correspond to the first elements 
      in the sorted matches list, since they are the ones with the shorter distance
-   * compare obtained keypoints, see the result file scale_match_keypoints.png
+   * compare obtained keypoints, see the result file [scale_match_keypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/scale_match_keypoints.png)
      
  ORB_alg_part4_RotateInv.py 
    * get keypoints for the image face.jpeg and its rotated case faceR.jpeg       
@@ -55,7 +55,7 @@ We explore each of the main properties of the ORB algorithm:
  ORB_alg_part7_ObjectDet.py 
    * find the face in the image Team.jpeg
    * gets keypoints for the image face.jpeg and its mapping in faceRN5.jpeg       
-   * compare obtained keypoints, see the result file  team_match_leypoints.jpeg
+   * compare obtained keypoints, see the result file  [team_match_leypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/team_match_keypoints.png)
    
 
 
