@@ -30,6 +30,8 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/YOLOv3_implementation)
 
+[HighPass-LowPass-Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/HighPass_LowPass_Filters)
+
 # Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
