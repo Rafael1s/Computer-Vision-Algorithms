@@ -20,14 +20,17 @@ the image as day or night.
 
 ## Day Night Image Classifier
  * DayNight_HSV_AbgBr.py
-   1. Display HSV channels for one day image
-   2. Testing average brightness levels
+   1. Display HSV channels for one day image.
+   2. Testing average brightness levels.
+   
+   Om the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/hsv_channels.png)
+we see images of H-S-V channels and the example of a night image with average of brightness.
 
  * DayNight_Blue_Thresholds.py 
-   1. Day Night Threshold
-   2. Blue channel Threshold 
+   1. Day Night Threshold.
+   2. Blue channel Threshold .
 
  * DayNaight_Classifier.py
-   1. Classify day and night images
-   2. Visualize the misclassified imagess 
+   1. Classify day and night images.
+   2. Visualize the misclassified imagess .
   
