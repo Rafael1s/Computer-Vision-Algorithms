@@ -12,7 +12,7 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
   
 [Fast detector of facial keypoints (ORB)](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Agorithm-ORB)
 
-[Hough transform to detect straigt lines](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Algorithm-HoughTransform) 
+[Hough Transform: Detect Lines and Circles](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Algorithm-HoughTransform) 
 
 [Steps of Canny Edge Detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Canny-Edge-Detector)
 
