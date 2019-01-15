@@ -32,5 +32,10 @@ we see images of H-S-V channels and the example of a night image with average of
 
  * DayNaight_Classifier.py
    1. Classify day and night images.
-   2. Visualize the misclassified imagess .
-  
+   2. Visualize the misclassified imagess.
+   
+ * DayNight_ImprovedClassifier.py  
+   1. Classify day and night images.
+   2. Visualize the misclassified imagess.
+   3. The number of images are missclasiffied (10 from 128). 
+   4. With additional criterion 9 from 10 are reclassified.
