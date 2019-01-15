@@ -14,5 +14,5 @@ Hough_phone.py is designed to
   * get all lines having not less than 'min_line_len' edges
         cv2.HoughLinesP
 
-In the result image 'phone_hough_transform' we see 
+In the result image [phone_hough_transform](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Algorithm-HoughTransform/phone_hough_transform.JPG) we see 
 edges in the middle image and red lines in the right one.    		
