@@ -4,7 +4,7 @@
 G_x, G_y are the intensity gradients in directions x and y,
 they are calculated by one of edge detector operators 
 (such as Roberts, Prewitt, or Sobel). Maghnitude G is calculates 
-as sqrt(G_x*G_x + G_y*G_y).
+as sqrt(Gx\*G_x + G_y\*G_y).
 
 ## Steps of Canny Detector
 
@@ -38,3 +38,5 @@ they may fluctuate around a level.
    The [result](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/wide_and_tight_edges.png) contains one image with wide edges, and another one with tight.
    
    * Canny_edge_det_Brain.py
+   
+   See the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/brain_two_images.png). 
