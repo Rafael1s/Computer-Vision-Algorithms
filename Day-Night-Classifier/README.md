@@ -23,19 +23,23 @@ the image as day or night.
    1. Display HSV channels for one day image.
    2. Testing average brightness levels.
    
-   Om the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/hsv_channels.png)
-we see images of H-S-V channels and the example of a night image with average of brightness.
+   On the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/hsv_channels.png)
+we see H-S-V channels and the example of a night image with average of brightness.
 
  * DayNight_Blue_Thresholds.py 
    1. Day Night Threshold.
-   2. Blue channel Threshold .
+   2. Blue channel Threshold.
+   
+   We get Day averageg Brightness:  140.96  and Night average brightness:   62.77.
+In the Blue channel Day Blue-average brightness: 130.96, and  Night Blue-average brightness channel:   36.90   
 
  * DayNaight_Classifier.py
    1. Classify day and night images.
-   2. Visualize the misclassified imagess.
+   2. Visualize the misclassified images.
+ From 128 images 10 are [missclssified](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/misclassified.png).   
    
  * DayNight_ImprovedClassifier.py  
    1. Classify day and night images.
-   2. Visualize the misclassified imagess.
+   2. Visualize the misclassified images.
    3. The number of images are missclasiffied (10 from 128). 
    4. With additional criterion 9 from 10 are reclassified.
