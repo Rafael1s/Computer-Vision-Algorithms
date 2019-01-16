@@ -12,9 +12,15 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ''' 1. Classify day and night images
-    2. Visualize the misclassified imagess ''' 
+    2. Visualize the misclassified imagess
+''' 
 
-'''First, we set some variables to keep track of some where our images are stored'''
+
+'''Training and Testing Data
+The 228 day/night images are separated into training and testing datasets.
+
+160 of these images are training images. They are used to create a classifier.
+128 are test images used to test the accuracy of the classifier.'''
 
 # Image data directories
 image_dir_training = "day_night_images/training/"
@@ -101,15 +107,9 @@ def estimate_label(rgb_image):
     
     avg_br = avg_brightness(rgb_image)
     
-    ## TODO: set the value of a threshold that will separate day and night images
-    
-    ## TODO: Return the predicted_label (0 or 1) based on whether the avg is 
-    # above or below the threshold
-
     if (avg_br > separate):
         predicted_label = 1
         
-
     return predicted_label    
 
 numb_true = 0
@@ -198,14 +198,23 @@ label = 1 - MISCLASSIFIED[num][1]
 nmis = len(MISCLASSIFIED)
 print('n missclass: ', nmis)
 
-#h = test_mis_im[0]
-#w = test_mis_im[1]
-fig = plt.figure(figsize=(50, 50))  # width, height in inches
 
-for i in range(nmis):
-    curr_im = MISCLASSIFIED[i][0] 
-    sub = fig.add_subplot(nmis, 1, i + 1)
-    sub.imshow(curr_im, interpolation='nearest')
+if (nmis == 10):
+  fig, axes = plt.subplots(5, 2, figsize=(20,20))
+  for i in range(0, 10):
+      row = i//2
+      col = i%2
+      #print('get i: ', i, ', row: ', row, ', col: ', col)
+      im_0 = MISCLASSIFIED[i][0] 
+      axes[row, col].set_title('Misclassified '+ str(i))
+      axes[row, col].imshow(im_0)
+      #axes[row,1].imshow(im_1)   
+else:    
+  fig = plt.figure(figsize=(50, 50))  # width, height in inches
+  for i in range(nmis):
+      curr_im = MISCLASSIFIED[i][0] 
+      sub = fig.add_subplot(nmis, 1, i + 1)
+      sub.imshow(curr_im, interpolation='nearest')
    
     
     
