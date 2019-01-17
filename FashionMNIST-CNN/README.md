@@ -28,8 +28,11 @@ We visualize the [output of pooling layer](https://github.com/Rafael1s/Computer-
 3.LoadAndVizualizFashionMNIST.ipynb
 
 Train data, number of images:  60000.
+We vizualize [representatives](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/example_of_each_class.png) for each of 20 classes.
+The representative of [class sneaker](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/class_sneaker_details.png) we  display in details.
+
 Turning all our images into Tensor's for training a neural network.
-Define a transform to read the data in as a tensor
+We define a transform to read the data in as a tensor.
 
 data_transform = transforms.ToTensor()
 rain_data = FashionMNIST(root='./data', train=True,
