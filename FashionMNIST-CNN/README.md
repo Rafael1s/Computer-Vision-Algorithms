@@ -3,13 +3,13 @@
 
 1.ConvLayerVizualization.ipynb
 
-Define a neural network with a single convolutional layer 
+This notebook demonstrates a neural network with a single convolutional layer 
 with four filters. Instantiate the model and set the weights
 
 weight = torch.from_numpy(filters).unsqueeze(1).type(torch.FloatTensor)
 model = Net(weight)
 
-Visualize the output of each filter
+We visualize the [output of each filter](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/output_of_each_filters.png).
 
 ## Visualize the output of a maxpooling layer in a CNN
 
