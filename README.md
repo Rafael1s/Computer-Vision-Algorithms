@@ -18,7 +18,7 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
 
-[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Edge-Detectors)
+[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Sobel-Edge-Detector)
 
 [Find contours and their directions](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Find-Contours)
 
