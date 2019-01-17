@@ -21,6 +21,7 @@ Then add a maxpooling layer,
 with a kernel size of (4x4) so you can really see that the image resolution has been 
 reduced after this step!
 
+We visualize the [output of pooling layer](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/output_of_pooling_layer.png).
 
 ## Load and transform the data
 
