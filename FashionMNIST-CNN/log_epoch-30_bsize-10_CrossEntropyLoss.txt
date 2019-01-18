@@ -1,0 +1,204 @@
+epoch = 30,  batch_zize = 10, CrossEntropyLoss
+
+
+Epoch: 1, Batch: 1000, Avg. Loss: 1.5931234560608865
+Epoch: 1, Batch: 2000, Avg. Loss: 1.0641990577429532
+Epoch: 1, Batch: 3000, Avg. Loss: 0.9253284708112478
+Epoch: 1, Batch: 4000, Avg. Loss: 0.8153095443397761
+Epoch: 1, Batch: 5000, Avg. Loss: 0.7642958017662168
+Epoch: 1, Batch: 6000, Avg. Loss: 0.7340756606459617
+Epoch: 2, Batch: 1000, Avg. Loss: 0.7045122069194913
+Epoch: 2, Batch: 2000, Avg. Loss: 0.6719979579523205
+Epoch: 2, Batch: 3000, Avg. Loss: 0.6378265593126416
+Epoch: 2, Batch: 4000, Avg. Loss: 0.6340487234778702
+Epoch: 2, Batch: 5000, Avg. Loss: 0.6299636899717153
+Epoch: 2, Batch: 6000, Avg. Loss: 0.6096507225222886
+Epoch: 3, Batch: 1000, Avg. Loss: 0.5895165132209659
+Epoch: 3, Batch: 2000, Avg. Loss: 0.585046605091542
+Epoch: 3, Batch: 3000, Avg. Loss: 0.5820996500924229
+Epoch: 3, Batch: 4000, Avg. Loss: 0.5705671721063554
+Epoch: 3, Batch: 5000, Avg. Loss: 0.5523179147969931
+Epoch: 3, Batch: 6000, Avg. Loss: 0.5500488058924675
+Epoch: 4, Batch: 1000, Avg. Loss: 0.539158617394045
+Epoch: 4, Batch: 2000, Avg. Loss: 0.5217682297751307
+Epoch: 4, Batch: 3000, Avg. Loss: 0.5350623878063634
+Epoch: 4, Batch: 4000, Avg. Loss: 0.5143640323672444
+Epoch: 4, Batch: 5000, Avg. Loss: 0.5142212215140461
+Epoch: 4, Batch: 6000, Avg. Loss: 0.5023041262663901
+Epoch: 5, Batch: 1000, Avg. Loss: 0.49086343821696937
+Epoch: 5, Batch: 2000, Avg. Loss: 0.49284405224397776
+Epoch: 5, Batch: 3000, Avg. Loss: 0.49460051425220447
+Epoch: 5, Batch: 4000, Avg. Loss: 0.4744994978448376
+Epoch: 5, Batch: 5000, Avg. Loss: 0.47749554834887387
+Epoch: 5, Batch: 6000, Avg. Loss: 0.4681276176162064
+Epoch: 6, Batch: 1000, Avg. Loss: 0.4637939791232347
+Epoch: 6, Batch: 2000, Avg. Loss: 0.4587143722884357
+Epoch: 6, Batch: 3000, Avg. Loss: 0.45531900649517776
+Epoch: 6, Batch: 4000, Avg. Loss: 0.454865830142051
+Epoch: 6, Batch: 5000, Avg. Loss: 0.44990423165168614
+Epoch: 6, Batch: 6000, Avg. Loss: 0.451927405375056
+Epoch: 7, Batch: 1000, Avg. Loss: 0.4539823378045112
+Epoch: 7, Batch: 2000, Avg. Loss: 0.4361736385161057
+Epoch: 7, Batch: 3000, Avg. Loss: 0.431499627135694
+Epoch: 7, Batch: 4000, Avg. Loss: 0.43186333868000654
+Epoch: 7, Batch: 5000, Avg. Loss: 0.42748379477486015
+Epoch: 7, Batch: 6000, Avg. Loss: 0.4157350926632062
+Epoch: 8, Batch: 1000, Avg. Loss: 0.41128742155618964
+Epoch: 8, Batch: 2000, Avg. Loss: 0.41510302056372167
+Epoch: 8, Batch: 3000, Avg. Loss: 0.425857270559296
+Epoch: 8, Batch: 4000, Avg. Loss: 0.41829522724449636
+Epoch: 8, Batch: 5000, Avg. Loss: 0.41134741297084837
+Epoch: 8, Batch: 6000, Avg. Loss: 0.40875593285448847
+Epoch: 9, Batch: 1000, Avg. Loss: 0.39842903323285284
+Epoch: 9, Batch: 2000, Avg. Loss: 0.4136313899923116
+Epoch: 9, Batch: 3000, Avg. Loss: 0.39493609388099865
+Epoch: 9, Batch: 4000, Avg. Loss: 0.39094886906724424
+Epoch: 9, Batch: 5000, Avg. Loss: 0.40900382013665515
+Epoch: 9, Batch: 6000, Avg. Loss: 0.39892919596331194
+Epoch: 10, Batch: 1000, Avg. Loss: 0.39257585334125905
+Epoch: 10, Batch: 2000, Avg. Loss: 0.3987229764065705
+Epoch: 10, Batch: 3000, Avg. Loss: 0.3820564363296144
+Epoch: 10, Batch: 4000, Avg. Loss: 0.3822045770392288
+Epoch: 10, Batch: 5000, Avg. Loss: 0.38046749454550444
+Epoch: 10, Batch: 6000, Avg. Loss: 0.38145890306588265
+Epoch: 11, Batch: 1000, Avg. Loss: 0.3716961437663995
+Epoch: 11, Batch: 2000, Avg. Loss: 0.390633064980153
+Epoch: 11, Batch: 3000, Avg. Loss: 0.3770284381788224
+Epoch: 11, Batch: 4000, Avg. Loss: 0.35921917835157363
+Epoch: 11, Batch: 5000, Avg. Loss: 0.3805335983391851
+Epoch: 11, Batch: 6000, Avg. Loss: 0.37037630279455336
+Epoch: 12, Batch: 1000, Avg. Loss: 0.36432956697791813
+Epoch: 12, Batch: 2000, Avg. Loss: 0.3708791985148564
+Epoch: 12, Batch: 3000, Avg. Loss: 0.36016731373313815
+Epoch: 12, Batch: 4000, Avg. Loss: 0.3692718954603188
+Epoch: 12, Batch: 5000, Avg. Loss: 0.3629560759110609
+Epoch: 12, Batch: 6000, Avg. Loss: 0.356534382449463
+Epoch: 13, Batch: 1000, Avg. Loss: 0.3520399690415943
+Epoch: 13, Batch: 2000, Avg. Loss: 0.3660858503389172
+Epoch: 13, Batch: 3000, Avg. Loss: 0.35037246873928235
+Epoch: 13, Batch: 4000, Avg. Loss: 0.36257393679302186
+Epoch: 13, Batch: 5000, Avg. Loss: 0.3548398861747701
+Epoch: 13, Batch: 6000, Avg. Loss: 0.3571364669054747
+Epoch: 14, Batch: 1000, Avg. Loss: 0.35799895849183666
+Epoch: 14, Batch: 2000, Avg. Loss: 0.3568401465024799
+Epoch: 14, Batch: 3000, Avg. Loss: 0.3464035306898877
+Epoch: 14, Batch: 4000, Avg. Loss: 0.34554961694939995
+Epoch: 14, Batch: 5000, Avg. Loss: 0.3514533677152358
+Epoch: 14, Batch: 6000, Avg. Loss: 0.335923840444535
+Epoch: 15, Batch: 1000, Avg. Loss: 0.34948886971967297
+Epoch: 15, Batch: 2000, Avg. Loss: 0.33653319352213296
+Epoch: 15, Batch: 3000, Avg. Loss: 0.33073447592835875
+Epoch: 15, Batch: 4000, Avg. Loss: 0.3449830771961715
+Epoch: 15, Batch: 5000, Avg. Loss: 0.34032570668077095
+Epoch: 15, Batch: 6000, Avg. Loss: 0.34697648137481885
+Epoch: 16, Batch: 1000, Avg. Loss: 0.3412929959059693
+Epoch: 16, Batch: 2000, Avg. Loss: 0.33213177605811506
+Epoch: 16, Batch: 3000, Avg. Loss: 0.34318637326685714
+Epoch: 16, Batch: 4000, Avg. Loss: 0.3226923625119962
+Epoch: 16, Batch: 5000, Avg. Loss: 0.32972352935862725
+Epoch: 16, Batch: 6000, Avg. Loss: 0.33473216255009175
+Epoch: 17, Batch: 1000, Avg. Loss: 0.32586826557293536
+Epoch: 17, Batch: 2000, Avg. Loss: 0.3322611951837316
+Epoch: 17, Batch: 3000, Avg. Loss: 0.3298124894606881
+Epoch: 17, Batch: 4000, Avg. Loss: 0.3221879170553293
+Epoch: 17, Batch: 5000, Avg. Loss: 0.31828048898885025
+Epoch: 17, Batch: 6000, Avg. Loss: 0.33088146011182107
+Epoch: 18, Batch: 1000, Avg. Loss: 0.3274665792277083
+Epoch: 18, Batch: 2000, Avg. Loss: 0.3173289581360295
+Epoch: 18, Batch: 3000, Avg. Loss: 0.3221363330613822
+Epoch: 18, Batch: 4000, Avg. Loss: 0.3239066691282205
+Epoch: 18, Batch: 5000, Avg. Loss: 0.3281647200812586
+Epoch: 18, Batch: 6000, Avg. Loss: 0.3179024675088003
+Epoch: 19, Batch: 1000, Avg. Loss: 0.31321491895616055
+Epoch: 19, Batch: 2000, Avg. Loss: 0.3255915279584006
+Epoch: 19, Batch: 3000, Avg. Loss: 0.317344009263441
+Epoch: 19, Batch: 4000, Avg. Loss: 0.30589522708847655
+Epoch: 19, Batch: 5000, Avg. Loss: 0.32533428104780615
+Epoch: 19, Batch: 6000, Avg. Loss: 0.3208144642824773
+Epoch: 20, Batch: 1000, Avg. Loss: 0.3133938673244556
+Epoch: 20, Batch: 2000, Avg. Loss: 0.31568885684834097
+Epoch: 20, Batch: 3000, Avg. Loss: 0.3266902262347285
+Epoch: 20, Batch: 4000, Avg. Loss: 0.31396662279684096
+Epoch: 20, Batch: 5000, Avg. Loss: 0.30362382070999594
+Epoch: 20, Batch: 6000, Avg. Loss: 0.3060391586306505
+Epoch: 21, Batch: 1000, Avg. Loss: 0.32622552901599555
+Epoch: 21, Batch: 2000, Avg. Loss: 0.2972233124822378
+Epoch: 21, Batch: 3000, Avg. Loss: 0.3022766702909721
+Epoch: 21, Batch: 4000, Avg. Loss: 0.31276281766803005
+Epoch: 21, Batch: 5000, Avg. Loss: 0.3065415841822978
+Epoch: 21, Batch: 6000, Avg. Loss: 0.3043195821030531
+Epoch: 22, Batch: 1000, Avg. Loss: 0.2868351841494441
+Epoch: 22, Batch: 2000, Avg. Loss: 0.30682556037139147
+Epoch: 22, Batch: 3000, Avg. Loss: 0.30772863316664006
+Epoch: 22, Batch: 4000, Avg. Loss: 0.31156529961217894
+Epoch: 22, Batch: 5000, Avg. Loss: 0.2995315543290344
+Epoch: 22, Batch: 6000, Avg. Loss: 0.30414460703067014
+Epoch: 23, Batch: 1000, Avg. Loss: 0.2958683776394464
+Epoch: 23, Batch: 2000, Avg. Loss: 0.2888015722213313
+Epoch: 23, Batch: 3000, Avg. Loss: 0.3018326089594047
+Epoch: 23, Batch: 4000, Avg. Loss: 0.30056209086009766
+Epoch: 23, Batch: 5000, Avg. Loss: 0.30552827648608943
+Epoch: 23, Batch: 6000, Avg. Loss: 0.3048220870895311
+Epoch: 24, Batch: 1000, Avg. Loss: 0.2838221976826899
+Epoch: 24, Batch: 2000, Avg. Loss: 0.29340847739431775
+Epoch: 24, Batch: 3000, Avg. Loss: 0.3045897394435015
+Epoch: 24, Batch: 4000, Avg. Loss: 0.2926073894693982
+Epoch: 24, Batch: 5000, Avg. Loss: 0.29505620707711205
+Epoch: 24, Batch: 6000, Avg. Loss: 0.30256637037266043
+Epoch: 25, Batch: 1000, Avg. Loss: 0.29293138822540643
+Epoch: 25, Batch: 2000, Avg. Loss: 0.2881790180373937
+Epoch: 25, Batch: 3000, Avg. Loss: 0.2997574463263154
+Epoch: 25, Batch: 4000, Avg. Loss: 0.2936821210917551
+Epoch: 25, Batch: 5000, Avg. Loss: 0.28744853985274676
+Epoch: 25, Batch: 6000, Avg. Loss: 0.2876992916733725
+Epoch: 26, Batch: 1000, Avg. Loss: 0.30417111707580624
+Epoch: 26, Batch: 2000, Avg. Loss: 0.2816226478121243
+
+
+
+
+
+Epoch: 26, Batch: 3000, Avg. Loss: 0.29307482136506585
+Epoch: 26, Batch: 4000, Avg. Loss: 0.292317698131199
+Epoch: 26, Batch: 5000, Avg. Loss: 0.2828950335410191
+Epoch: 26, Batch: 6000, Avg. Loss: 0.28399982215155617
+Epoch: 27, Batch: 1000, Avg. Loss: 0.29443402902572413
+Epoch: 27, Batch: 2000, Avg. Loss: 0.28527483556047084
+Epoch: 27, Batch: 3000, Avg. Loss: 0.28060315989376977
+Epoch: 27, Batch: 4000, Avg. Loss: 0.27757427166355775
+Epoch: 27, Batch: 5000, Avg. Loss: 0.2915348881375976
+Epoch: 27, Batch: 6000, Avg. Loss: 0.28802944118983576
+Epoch: 28, Batch: 1000, Avg. Loss: 0.2828504627026268
+Epoch: 28, Batch: 2000, Avg. Loss: 0.2867332547498518
+Epoch: 28, Batch: 3000, Avg. Loss: 0.2786416493413271
+Epoch: 28, Batch: 4000, Avg. Loss: 0.27910078317136505
+Epoch: 28, Batch: 5000, Avg. Loss: 0.28827554819348733
+Epoch: 28, Batch: 6000, Avg. Loss: 0.27804497351484314
+Epoch: 29, Batch: 1000, Avg. Loss: 0.29207332711381606
+Epoch: 29, Batch: 2000, Avg. Loss: 0.27931672366557175
+Epoch: 29, Batch: 3000, Avg. Loss: 0.2716182027736213
+Epoch: 29, Batch: 4000, Avg. Loss: 0.28598097625607627
+Epoch: 29, Batch: 5000, Avg. Loss: 0.2706678397357464
+Epoch: 29, Batch: 6000, Avg. Loss: 0.28044886568014044
+Epoch: 30, Batch: 1000, Avg. Loss: 0.2660642836068437
+Epoch: 30, Batch: 2000, Avg. Loss: 0.26445804769347886
+Epoch: 30, Batch: 3000, Avg. Loss: 0.27853296935913385
+Epoch: 30, Batch: 4000, Avg. Loss: 0.27705777402361853
+Epoch: 30, Batch: 5000, Avg. Loss: 0.28716164127961386
+Epoch: 30, Batch: 6000, Avg. Loss: 0.2758106951656519
+Finished Training
+
+Test Loss: 0.288898
+
+Test Accuracy of T-shirt/top: 90% (900/1000)
+Test Accuracy of Trouser: 97% (978/1000)
+Test Accuracy of Pullover: 88% (888/1000)
+Test Accuracy of Dress: 89% (896/1000)
+Test Accuracy of  Coat: 79% (792/1000)
+Test Accuracy of Sandal: 97% (975/1000)
+Test Accuracy of Shirt: 63% (639/1000)
+Test Accuracy of Sneaker: 95% (954/1000)
+Test Accuracy of   Bag: 97% (976/1000)
+Test Accuracy of Ankle boot: 97% (973/1000)
+
+Test Accuracy (Overall): 89%
