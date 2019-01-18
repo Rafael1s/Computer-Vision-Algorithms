@@ -25,7 +25,7 @@ We visualize the [output of pooling layer](https://github.com/Rafael1s/Computer-
 
 ## Load and transform the data
 
-3.LoadAndVizualizFashionMNIST.ipynb
+3.LoadAndVizualizFashionMNIST.ipynb  
 
 Train data, number of images:  60000.
 We vizualize [representatives](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/example_of_each_class.png) for each of 20 classes.
@@ -44,12 +44,39 @@ Important: *Tensors are similar to numpy arrays, but can also be used
 
 ## Train a CNN to classify images from the Fashion-MNIST database
 
-4.ClassificationFashionMNIST.ipynb
+4.ClassificationFashionMNIST.ipynb and 
+4.ClassifFashionMNIST_batchsize-10.ipynb
 
 In this cell, we load in both _training_ and _test_ datasets from the 
 [FashionMNIST class](https://github.com/zalandoresearch/fashion-mnist).
 
-Define the network architecture. 
+The network architecture of ClassificationFashionMNIST.ipynb is defined as follows:
+
+        # 1 input image channel (grayscale), 10 output channels/feature maps,  3x3 square convolution kernel
+        # output size = (W-F)/S +1 = (28-3)/1 +1 = 26
+        # the output Tensor for one image, will have the dimensions: (10, 26, 26), after pool layer: (10, 13, 13)
+        self.conv1 = nn.Conv2d(1, 10, 3)
+        
+        # maxpool layer with kernel_size=2, stride=2
+        self.pool = nn.MaxPool2d(2, 2)
+        
+        # second conv layer: 10 inputs, 20 outputs, 3x3 conv
+        # output size = (W-F)/S +1 = (13-3)/1 +1 = 11
+        # the output tensor will have dimensions: (20, 11, 11)
+        # after another pool layer this becomes (20, 5, 5); 5.5 is rounded down
+        self.conv2 = nn.Conv2d(10, 20, 3)
+        
+        # 20 outputs * the 5*5 filtered/pooled map size
+        # 10 output channels (for the 10 classes)
+        self.fc1 = nn.Linear(20*5*5, 10)
+
+Two layers are added to the architecture of ClassificationFashionMNIST_batchsize-10.ipynb
+
+        # dropout with p=0.4
+        self.fc1_drop = nn.Dropout(p=0.4)
+        
+        # finally, create 10 output channels (for the 10 classes)
+        self.fc2 = nn.Linear(50, 10)
 
 ### A note on output size
 
