@@ -26,5 +26,5 @@ The left hand has the greater angle, so the get:
 Thus, the suitable contour the contour #1.
 The suitable contour (related to the left hand) is boxed by the function 'rectangle'.
 
-The result image is 'left_hand_with_contour.jpg' 
+Finally, we get the [left hand with contour](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Find-Contours/left_hand_with_contour.JPG).
   
