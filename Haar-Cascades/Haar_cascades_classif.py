@@ -40,28 +40,12 @@ gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 plt.figure(figsize=(20,10))
 plt.imshow(gray, cmap='gray')
 
-'''haarcascade_eye.xml
-   Stump-based 20x20 frontal eye detector.'''
-
-'''haarcascade_frontalface_default.xml  --
-   Stump-based 24x24 discrete(?) adaboost frontal face detector.'''
 
 '''
 Next we load in the fully trained architecture of the face detector, 
 found in the file `detector_architectures/ haarcascade_frontalface_default.xml`,
-and use it on our image to find faces!
+and use it on our image to find faces!'''
 
-**A note on parameters** 
-
-How many faces are detected is determined by the function,
- `detectMultiScale` which aims to detect faces of varying sizes. 
- The inputs to this function are:
- `(image, scaleFactor, minNeighbors)`;
- you will often detect more faces with a smaller scaleFactor, 
- and lower value for minNeighbors,
- but raising these values often produces better matches.
- Modify these values depending on your input image.'''
- 
  # load in cascade classifier
 face_cascade = cv2.CascadeClassifier('detector_architectures/haarcascade_frontalface_default.xml')
 
