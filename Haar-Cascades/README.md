@@ -13,14 +13,14 @@ of the object can easily be determined (here, this is face detector).
 
 Directory _detector_architectures_ contains
 haarcascade_frontalface_default.xml  --
-This is the stump-based 24x24 discrete(?) adaboost frontal face detector.
+This is the stump-based 24x24 discrete adaboost frontal face detector.
 
 
 ## A note on parameters
 
 How many faces are detected is determined by the function,
  `detectMultiScale` which aims to detect faces of varying sizes. 
- The inputs to this function are: `(image, scaleFactor, minNeighbors)`;
+ The inputs to this function are: _(image, scaleFactor, minNeighbors)_;
  We often detect more faces with a smaller scaleFactor, 
  and lower value for minNeighbors,
  but raising these values often produces better matches.
@@ -39,5 +39,5 @@ Haar_cascades_classif.py
 ## Result image 
 	    
 The input image  multi_faces.jpg contains 13 faces.
-They are obtained in the result image boxed_face.jpg
+They are obtained in the result image [boxed_faces](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Haar-Cascades/boxed_faces.png).
 
