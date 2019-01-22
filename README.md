@@ -30,7 +30,7 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/YOLOv3_implementation)
 
-[HighPass and LowPass Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/HighPass_LowPass_Filters)
+[High-Pass and Low-Pass Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/HighPass_LowPass_Filters)
 
 [Comparison of Color Models](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Comparison-Color-Models)
 
