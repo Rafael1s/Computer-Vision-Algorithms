@@ -94,9 +94,11 @@ axes[2,1].imshow(masked_image)
 #axes[2,1].imshow(image)
 
 #---------------------------------
-
+# OpenCV halves the H values to fit the range [0,255]
+# H value instead of being in range [0, 360], is in range [0, 180]. 
+# S and V are still in range [0, 255].
 lower_hue_2 = np.array([140,0,0]) 
-upper_hue_2 = np.array([255,255,255])
+upper_hue_2 = np.array([180,255,255])
 
 
 # Define the masked area in HSV space
@@ -109,6 +111,4 @@ masked_image[mask_hue_2==0] = [0,0,0]
 # Vizualize the mask
 axes[2,2].set_title('Hue 140-255')
 axes[2,2].imshow(masked_image)
-
-
 
