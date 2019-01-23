@@ -20,7 +20,7 @@ The _learnin rate_ parameter lr = 0.01 was quite good, and almost did not yield 
 
 Notes on the notebook 3-Facial Keypoint Detection, Complete Pipeline.
 
-We use _class Net_ from _models.py_, where the architecture of CNN is defined:
+We use _class Net_ from _models.py_, where the architecture of CNN is defined as follows:
   
 **_First convolution layer, 1 input channel, 12 output channels/feature maps, 4x4 square convolution kernel_**
   
@@ -34,7 +34,7 @@ We use _class Net_ from _models.py_, where the architecture of CNN is defined:
    
 **_self.pool1 = nn.MaxPool2d(2, 2)_**
        
-**_Second convoluation layer,  24 output channels/feature maps, 3x3 square convolution kernel_ **
+**_Second convoluation layer,  24 output channels/feature maps, 3x3 square convolution kernel_**
     
   _#input: (110,110,12), output tensor dimension: (108,108,24) since (110 - 3)/1 + 1 = 108_
   
@@ -54,6 +54,6 @@ We use _class Net_ from _models.py_, where the architecture of CNN is defined:
         
   _#input: (53,53,48), output tensor dimension: (26,26,48), since 53/2 = 26, rounded down_
         
-**_Third convolution layer_**
+**_Third maxpool layer_**
 
 **self.pool3 = nn.MaxPool2d(2, 2)**
