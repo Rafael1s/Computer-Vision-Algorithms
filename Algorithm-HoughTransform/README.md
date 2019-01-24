@@ -23,3 +23,13 @@ Hough_circles.py is designed to
         uses cv2.GaussianBlur and cv2.HoughCircle
 The input parameters of function HoughCircle we get
 different set of circles, see the image [how_many_round_farms](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Algorithm-HoughTransform/how_many_round_farms.png) 
+
+## Used OpenCV and related functions
+
+* cv2.imread
+* cv2cvtColor
+* cv2.Canny  
+* cv2.HoughLinesP,      
+* cv2.HoughCircles
+* cv2.line
+* cv2.circle
