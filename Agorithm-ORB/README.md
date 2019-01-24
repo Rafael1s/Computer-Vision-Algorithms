@@ -37,6 +37,19 @@ We explore each of the main properties of the ORB algorithm:
  * Illumination Invariance
  * Noise Invariance
 
+## Used OpenCV and related functions
+
+* cv2.imread
+* cv2cvtColor
+* cv2.ORB_create,  
+  orb.detectAndCompute
+* cv2.BFMatch,      
+  bf.match
+* cv2.drawMatches
+ 
+
+ 
+
  ORB_alg_part3_ScaleInv
    * get keypoints for the image face.jpeg and its rotated case faceQS.jpeg     
    * Connect the keypoints in the training image with their best matching keypoints
