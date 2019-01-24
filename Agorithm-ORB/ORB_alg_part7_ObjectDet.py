@@ -13,6 +13,7 @@ our training and query images.
 '''
 import cv2
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Set the default figure size
 plt.rcParams['figure.figsize'] = [14.0, 7.0]
@@ -66,7 +67,8 @@ keypoints_train, descriptors_train = orb.detectAndCompute(training_gray, None)
 keypoints_query, descriptors_query = orb.detectAndCompute(query_gray, None)
 
 # Create copies of the query images to draw our keypoints on
-query_img_keyp = copy.copy(query_image)
+#query_img_keyp = copy.copy(query_image)
+query_img_keyp = np.copy(query_image)
 
 # Draw the keypoints with size and orientation on the copy of the query image
 cv2.drawKeypoints(query_image, keypoints_query, query_img_keyp, flags = cv2.DRAW_MATCHES_FLAGS_DRAW_RICH_KEYPOINTS)
