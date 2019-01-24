@@ -67,7 +67,6 @@ keypoints_train, descriptors_train = orb.detectAndCompute(training_gray, None)
 keypoints_query, descriptors_query = orb.detectAndCompute(query_gray, None)
 
 # Create copies of the query images to draw our keypoints on
-#query_img_keyp = copy.copy(query_image)
 query_img_keyp = np.copy(query_image)
 
 # Draw the keypoints with size and orientation on the copy of the query image
