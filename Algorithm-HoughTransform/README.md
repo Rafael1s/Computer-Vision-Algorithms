@@ -8,7 +8,7 @@ after the related 1962 patent of Paul Hough (Method and means for recognizing co
 U.S. Patent 3,069,654, Dec. 18, 1962)
 
 ## Identification of Lines 
-Hough_phone.py is designed to
+Hough_lines.py is designed to
   * get all edges in the image (currently phone.jpg)
         uses cv2.Canny
   * get all lines having not less than 'min_line_len' edges
@@ -20,7 +20,7 @@ edges in the middle image and red lines in the right one.
 ## Identification of Circles
 Hough_circles.py is designed to
    * get possible circles in the image (round_farms.jpg)
-        uses cv2.GaussianBlur and cv2.HoughCircle
+        uses cv2.GaussianBlur and cv2.HoughCircles
 The input parameters of function HoughCircle we get
 different set of circles, see the image [how_many_round_farms](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Algorithm-HoughTransform/how_many_round_farms.png) 
 
@@ -31,5 +31,6 @@ different set of circles, see the image [how_many_round_farms](https://github.co
 * cv2.Canny  
 * cv2.HoughLinesP,      
 * cv2.HoughCircles
+* cv2.GaussianBlur
 * cv2.line
 * cv2.circle
