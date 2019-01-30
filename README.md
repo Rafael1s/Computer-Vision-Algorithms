@@ -34,6 +34,8 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [Comparison of Color Models](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Comparison-Color-Models)
 
+[CharacterLevel RNN with LSTM](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Character-Level-RNN_LSTM)
+
 # Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
