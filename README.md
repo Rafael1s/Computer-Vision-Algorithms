@@ -34,7 +34,7 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [CharacterLevel RNN with LSTM](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Character-Level-RNN_LSTM)
 
-[Project 1:  Facial Key Ponts CNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
+[Project 1:  Facial Key Points CNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
 
 [Project 2: Image Captioning CNN+RNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-2_ImageCaptoining)
 
