@@ -4,7 +4,7 @@
 Hyperparameters of the clustering algorithm are distance function 
 and the number of expected clusters k.
 In [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) 
-the number of clusters k must be specified ahead 
+the number of clusters k must be specified ahead. 
 Algorithm generates k clusters.
 
 # Reshaping
@@ -28,11 +28,6 @@ first dimension.
 
 # Examples of clusters
 
-In examples [result_kmeans]() and 
-[result_masked_by_Clusters]() the number of clusters k is specified to 6. 
+In the [first example](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/K-Means-Clustering/result_kmeans.png) all clusters are demonstarated in the gray cmap, and first 4 clusters in the color map.
+In the [second example](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/K-Means-Clustering/result_masked_by_Clusters.png) different clusters are colored by different colors. In both examples the number of clusters k is specified to 6. 
 
-In [result_kmeans]() we have 6 clusters in the gray cmap, 
-and first 4 clusters in the color map.
-
-In [result_masked_by_Clusters]() different clusters are colored
-by different colors.
