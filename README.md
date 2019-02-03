@@ -24,6 +24,8 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [AdaBoost frontal face detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Haar-Cascades)
 
+[K-means clustering and Masking](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/K-Means-Clustering)
+
 [FashionMNIST Convolution Network](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/FashionMNIST-CNN)
 
 [YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/YOLOv3_implementation)
