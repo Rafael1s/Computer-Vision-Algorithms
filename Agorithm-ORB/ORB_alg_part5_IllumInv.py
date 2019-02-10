@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 29 21:24:11 2018
 
-@author: user
+@author: Rafael Stekolshchik
 """
 
 '''Illumination Invariance
