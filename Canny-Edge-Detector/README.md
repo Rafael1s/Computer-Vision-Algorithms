@@ -39,4 +39,16 @@ they may fluctuate around a level.
    
    * Canny_edge_det_Brain.py
    
-   See the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/brain_two_images.png). 
+   See the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/brain_two_images.png).
+ 
+## Used OpenCV functions   
+ * cv2.imread 
+ * cv2.cvtColor
+ * cv2.Canny
+ * cv2.GaussianBlur
+ * cv2.filter2D
+ * cv2.threshold
+ 
+ 
+
+   
