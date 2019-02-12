@@ -40,6 +40,8 @@ are developed as part of the [Udacity Computer Vision Nanodegree course.](https:
 
 [Project 2: Image Captioning CNN+RNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-2_ImageCaptoining)
 
+[Project 3: Graph-SLAM algoithm](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-3_LandmarkDetection_Traking(SLAM))
+
 # Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
