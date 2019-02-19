@@ -61,15 +61,17 @@ We explore each of the main properties of the ORB algorithm:
     
  ORB_alg_part6_NoiseInv.py
    * get keypoints for the image face.jpeg and its rotated and noised case faceRN5.jpeg       
-   * compare obtained keypoints, see the result image:
+   * compare obtained keypoints here:
    
    ![](match_keypoints/match_noise_keypoints.png)
    
  ORB_alg_part7_ObjectDet.py 
    * find the face in the image Team.jpeg
    * gets keypoints for the image face.jpeg and its mapping in faceRN5.jpeg       
-   * compare obtained keypoints, see the result file  [team_match_leypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/team_match_keypoints.png)
+   * compare obtained keypoints: 
    
+   ![](match_keypoints/team_match_keypoints.png)
+      
 ## Used OpenCV and related functions
 
 * cv2.imread
