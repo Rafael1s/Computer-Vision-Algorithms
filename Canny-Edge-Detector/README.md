@@ -35,11 +35,15 @@ they may fluctuate around a level.
 
    * Canny_edge_det.py.  
    
-   The [result](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/wide_and_tight_edges.png) contains one image with wide edges, and another one with tight.
+   The result contains one image with wide edges, and another one with tight:
+   
+   ![](wide_and_tight_edges.png)
    
    * Canny_edge_det_Brain.py
    
-   See the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Canny-Edge-Detector/brain_two_images.png).
+   Similarly, we get for the input brain_MR.jpg:
+
+   ![](brain_two_images.png)
  
 ## Used OpenCV functions   
  * cv2.imread 
