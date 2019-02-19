@@ -18,7 +18,7 @@ In the result image
 
 ![](phone_hough_transform.JPG)
 
-we see edges in the middle image and red lines in the right one.    
+we see edges in the middle image and red lines selecting the phone screen.    
 
 ## Identification of Circles
 Hough_circles.py is designed to
