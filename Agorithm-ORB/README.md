@@ -42,25 +42,36 @@ We explore each of the main properties of the ORB algorithm:
    * Connect the keypoints in the training image with their best matching keypoints
      in the query image. The best matches correspond to the first elements 
      in the sorted matches list, since they are the ones with the shorter distance
-   * compare obtained keypoints, see the result file [scale_match_keypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/scale_match_keypoints.png)
-     
+   * compare obtained keypoints, see the result image:
+   
+   ![](match_keypoints/scale_match_keypoints.png)
+        
  ORB_alg_part4_RotateInv.py 
    * get keypoints for the image face.jpeg and its rotated case faceR.jpeg       
-   * compare obtained keypoints, see the result file [rotate_match_keypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/rotate_match_keypoints.png)
+   * compare obtained keypoints, see the result image:
    
+   ![](match_keypoints/rotate_match_keypoints.png)
+      
  ORB_alg_part5_IllumInv.py  
    * get keypoints for the image face.jpeg and its illumination-distorted case faceRI.jpeg 
-   * compare obtained keypoints, see the result file [illum_match_keypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/illum_match_keypoints.png)
+   * compare obtained keypoints, see the following image:
+   
+   ![](match_keypoints/illum_match_keypoints.png)
+   
     
  ORB_alg_part6_NoiseInv.py
    * get keypoints for the image face.jpeg and its rotated and noised case faceRN5.jpeg       
-   * compare obtained keypoints, see the result file [match_noise_keypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/match_noise_keypoints.png)
-
+   * compare obtained keypoints here:
+   
+   ![](match_keypoints/match_noise_keypoints.png)
+   
  ORB_alg_part7_ObjectDet.py 
    * find the face in the image Team.jpeg
    * gets keypoints for the image face.jpeg and its mapping in faceRN5.jpeg       
-   * compare obtained keypoints, see the result file  [team_match_leypoints](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Agorithm-ORB/match_keypoints/team_match_keypoints.png)
+   * compare obtained keypoints: 
    
+   ![](match_keypoints/team_match_keypoints.png)
+      
 ## Used OpenCV and related functions
 
 * cv2.imread
