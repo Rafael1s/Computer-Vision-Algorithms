@@ -23,8 +23,8 @@ the image as day or night.
    1. Display HSV channels for one day image.
    2. Testing average brightness levels.
    
-   On the [result image](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/hsv_channels.png)
-we see H-S-V channels and the example of a night image with average of brightness.
+   ![](hsv_channels.png)
+   On the image above we see H-S-V channels and the example of a night image with average of brightness = 36.8.
 
  * DayNight_Blue_Thresholds.py 
    1. Day Night Threshold.
