@@ -1,11 +1,11 @@
 
-## Training and Testing Data
+### Training and Testing Data
 The 288 day/night images are separated into training and testing datasets.
 
 160 of these images are training images to create a classifier.
 128 are test images, which will be used to test the accuracy of classifier. 
 
-## Feature Extraction
+### Feature Extraction
 Create a feature that represents the brightness in an image. 
 We extract the average brightness using HSV colorspace.
 Specifically, we use the V channel (a measure of brightness),
@@ -18,7 +18,7 @@ a feature (a single value) that represent the average level of
 brightness in the image. We'll use this value to classify
 the image as day or night.
 
-## Day Night Image Classifier
+### Day Night Image Classifier
  * DayNight_HSV_AbgBr.py
    1. Display HSV channels for one day image.
    2. Testing average brightness levels.
@@ -39,6 +39,8 @@ In the Blue channel Day Blue-average brightness: 130.96, and  Night Blue-average
  From 128 images 10 are missclssified:
  
  ![](misclassified.png)
+ 
+ ### Improved classifier
  
  * DayNight_ImprovedClassifier.py  
    1. Classify day and night images.
