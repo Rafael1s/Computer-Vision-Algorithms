@@ -36,8 +36,10 @@ In the Blue channel Day Blue-average brightness: 130.96, and  Night Blue-average
  * DayNaight_Classifier.py
    1. Classify day and night images.
    2. Visualize the misclassified images.
- From 128 images 10 are [missclssified](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Day-Night-Classifier/misclassified.png).   
-   
+ From 128 images 10 are missclssified:
+ 
+ ![](misclassified.png)
+ 
  * DayNight_ImprovedClassifier.py  
    1. Classify day and night images.
    2. Visualize the misclassified images.
