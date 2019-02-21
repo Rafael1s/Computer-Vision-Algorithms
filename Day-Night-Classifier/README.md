@@ -24,7 +24,7 @@ the image as day or night.
    2. Testing average brightness levels.
    
    ![](hsv_channels.png)
-   On the image above we see H-S-V channels and the example of a night image with average of brightness = 36.8.
+   On the image above we see H-S-V channels and the example of a night image with average of brightness = 36.18.
 
  * DayNight_Blue_Thresholds.py 
    1. Day Night Threshold.
