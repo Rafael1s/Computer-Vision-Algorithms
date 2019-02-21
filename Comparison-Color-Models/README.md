@@ -11,10 +11,11 @@
 
 ![](color_circle_masked.png)
 
-## Input images:
+## More color masked images:
 
 ![](images/family.jpg)
 
+![](family_masked_images.png)
 
 ## Used OpenCV functions
 
