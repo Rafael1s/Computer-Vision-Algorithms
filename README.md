@@ -1,10 +1,15 @@
 # Computer Vision Nanodegree Udacity
 
-Here you can find several small (and slightly larger) subprojects dedicated 
+Here you can find several small (and slightly larger) subprojects dedicated to the well-known 
+Computer Vision approaches and algorithms. These subprojects are developed as part of the 
+[**_Udacity Computer Vision Nanodegree Program_**](https://www.udacity.com/course/computer-vision-nanodegree--nd891).  
+Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wikipedia.org/wiki/Deep_learning) of [**_Convolutional Neural Networks (CNN)_**](https://en.wikipedia.org/wiki/Convolutional_neural_network) and [**_Recurrent Neural Networks (RNN)_**](https://en.wikipedia.org/wiki/Recurrent_neural_network):
 
-to the well-known Computer Vision approaches and algorithms. These subprojects 
-
-are developed as part of the [Udacity Computer Vision Nanodegree course.](https://www.udacity.com/course/computer-vision-nanodegree--nd891) 
+* _FashionMNIST Convolution Network_
+* _YOLOv3 notebook implementation_
+* _CharacterLevel RNN with LSTM_
+* _Facial Key Points CNN (Project 1)_
+* _Image Captioning CNN+RNN (Project 2)_
 
   
 # Projects 
