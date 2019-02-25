@@ -1,4 +1,4 @@
-# Computer Vision Nanodegree Udacity
+## Computer Vision Nanodegree Udacity
 
 Here you can find several small (and slightly larger) subprojects dedicated to the well-known 
 Computer Vision approaches and algorithms. These subprojects are developed as part of the 
@@ -12,7 +12,7 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 * _Image Captioning CNN+RNN (Project 2)_
 
   
-# Projects 
+### Projects 
   Your can view and launch the following Python projects:
   
 [Fast detector of facial keypoints (ORB)](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Agorithm-ORB)
@@ -47,7 +47,7 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 
 [Project 3: Graph-SLAM algorithm](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-3_LandmarkDetection_Traking(SLAM))
 
-# Environment
+### Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
 
