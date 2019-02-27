@@ -47,6 +47,33 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 
 [Project 3: Graph-SLAM algorithm](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-3_LandmarkDetection_Traking(SLAM))
 
+### Used OpenCV functions
+
+* cv2.imread
+* cv2.cvtColor
+* cv2.ORB_create
+* cv2.BFMatcher 
+* cv2.drawMatches
+* cv2.GaussianBlur
+* cv2.circle
+* cv2.HoughCircles
+* cv2.Canny
+* cv2.HoughLinesP
+* cv2.line
+* cv2.inRange
+* cv2.bitwise_or
+* cv2.bitwise_and
+* cv2.resize
+* cv2.filter2D
+* cv2.threshold
+* cv2.findContours
+* cv2.drawContours
+* cv2.fitEllipse
+* cv2.boundingRect
+* cv2.rectangle
+* cv2.CascadeClassifier
+* cv2.kmeans
+
 ### Environment
 
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
