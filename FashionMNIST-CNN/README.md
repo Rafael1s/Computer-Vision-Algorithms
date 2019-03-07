@@ -30,7 +30,7 @@ We visualize the output of the pooling layer: ![](output_of_pooling_layer.png)
 Train data, number of images:  60000.
 We vizualize representatives for each of 20 classes:![](example_of_each_class.png)
 
-The representative of [class sneaker](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/class_sneaker_details.png) we  display in details.
+The representative of __class sneaker__ we  display in details: ![](class_sneaker_details.png)
 
 Turning all our images into Tensor's for training a neural network.
 We define a transform to read the data in as a tensor.
