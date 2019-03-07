@@ -28,7 +28,8 @@ We visualize the output of the pooling layer: ![](output_of_pooling_layer.png)
 3.LoadAndVizualizFashionMNIST.ipynb  
 
 Train data, number of images:  60000.
-We vizualize [representatives](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/example_of_each_class.png) for each of 20 classes.
+We vizualize representatives for each of 20 classes:![](example_of_each_class.png)
+
 The representative of [class sneaker](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/class_sneaker_details.png) we  display in details.
 
 Turning all our images into Tensor's for training a neural network.
