@@ -91,7 +91,8 @@ for an assumed padding size of 0. You can find a derivation of this formula,
 
 ## Feature Visualization
 
- We extract and visualize the filter weights for [all of the filters](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/visualizion_of_filter_weights.png) in the first convolutional layer.
+ We extract and visualize the filter weights for all of the filters: ![](visualizion_of_filter_weights.png)
+ in the first convolutional layer.
  
  ### Activation Maps
  We use OpenCV's filter2D function to apply these filters to a sample test image and produce a series of activation maps as a result. We'll do this for the [first](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/activation_map_first_ConvLayer.png) and [second](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/activation_map_second_ConvLayer.png) convolutional layers.
