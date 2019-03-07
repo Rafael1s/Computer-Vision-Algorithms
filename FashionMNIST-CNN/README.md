@@ -89,7 +89,7 @@ S, all + 1. The equation looks like: `output_dim = (W-F)/S + 1`,
 for an assumed padding size of 0. You can find a derivation of this formula, 
 [here](http://cs231n.github.io/convolutional-networks/#conv).
 
-## Feature Visualization
+### Feature Visualization
 
  We extract and visualize the filter weights for all of the filters
  in the first convolutional layer:  ![](visualizion_of_filter_weights.png) 
