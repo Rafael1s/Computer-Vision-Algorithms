@@ -9,7 +9,7 @@ with four filters. Instantiate the model and set the weights
 weight = torch.from_numpy(filters).unsqueeze(1).type(torch.FloatTensor)
 model = Net(weight)
 
-We visualize the output of each filter ![](output_of_each_filters.png)
+We visualize the output of each filter: ![](output_of_each_filters.png)
 
 ## Visualize the output of a maxpooling layer in a CNN
 
@@ -21,7 +21,7 @@ Then add a maxpooling layer,
 with a kernel size of (4x4) so you can really see that the image resolution has been 
 reduced after this step!
 
-We visualize the [output of pooling layer](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/FashionMNIST-CNN/output_of_pooling_layer.png).
+We visualize the output of the pooling layer: ![](output_of_pooling_layer.png)
 
 ## Load and transform the data
 
