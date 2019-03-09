@@ -9,6 +9,9 @@ a technique for speeding up processing of boosted classifiers testing each poten
 with as many layers of the final classifier speeding up computation for cases where the class 
 of the object can easily be determined (here, this is face detector).  
 
+## Input image
+The input image  multi_faces.jpg contains 13 faces: ![](images/multi_faces.jpg)
+
 ## Haarcascade detector
 
 Directory _detector_architectures_ contains
@@ -38,6 +41,7 @@ Haar_cascades_classif.py
 	    
 ## Result image 
 	    
-The input image  multi_faces.jpg contains 13 faces.
-They are obtained in the result image [boxed_faces](https://github.com/Rafael1s/Computer-Vision-Udacity/blob/master/Haar-Cascades/boxed_faces.png).
+
+All faces were found in the resulting image and are highlighted in red: ![](boxed_faces.png)
+
 
