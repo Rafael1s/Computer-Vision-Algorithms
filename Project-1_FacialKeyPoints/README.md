@@ -57,3 +57,7 @@ We use _class Net_ from _models.py_, where the architecture of CNN is defined as
 **_Third maxpool layer_**
 
 **self.pool3 = nn.MaxPool2d(2, 2)**
+
+## Credit  
+
+Most of the code is based on the Udacity code.   
