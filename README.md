@@ -82,4 +82,6 @@ The additional info about every project can be found in the README file related 
 
 ### Credit  
 
-Most of the code is based on the Udacity code.
+I liked the course "Computer Vision Nanodegree".    
+Many thanks to Udacity for the high learning standards.   
+Most of the code in this repository is based on Udacity code.  
