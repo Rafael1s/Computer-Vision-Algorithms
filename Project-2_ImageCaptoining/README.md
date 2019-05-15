@@ -1,6 +1,19 @@
-## Loss History
+## Image Captioning Predicted Well
 
-total_step:  3236
+![](predicted_caption_1.png)   
+
+![](predicted_caption_2.png)   
+
+![](predicted_caption_3.png)   
+
+![](predicted_caption_4.png)   
+
+![](predicted_caption_5.png)   
+
+## Loss History    
+
+total_step:  **3236**    
+
 1.03% Epoch [1/3], Step [100/3236], Loss: 3.9948, Perplexity: 54.3140   
 2.06% Epoch [1/3], Step [200/3236], Loss: 3.4490, Perplexity: 31.4680    
 3.09% Epoch [1/3], Step [300/3236], Loss: 3.0621, Perplexity: 21.3721    
@@ -98,3 +111,6 @@ total_step:  3236
 98.60% Epoch [3/3], Step [3100/3236], Loss: 1.8800, Perplexity: 6.55348   
 99.63% Epoch [3/3], Step [3200/3236], Loss: 1.9334, Perplexity: 6.91282   
 100.00% Epoch [3/3], Step [3236/3236], Loss: 1.7584, Perplexity: 5.8030      
+
+## Credit
+Most of the code is based on the Udacity code for CNN and RNN models.  
