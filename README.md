@@ -79,3 +79,7 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 Make sure that Python and libraries *numpy*, *cv2*, *torch*, *matplotlab*, *os*, *utils*, *darknet*   are installed.
 
 The additional info about every project can be found in the README file related to the specific project.
+
+### Credit  
+
+Most of the code is based on the Udacity code.
