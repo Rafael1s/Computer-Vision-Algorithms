@@ -113,4 +113,4 @@ total_step:  **3236**
 100.00% Epoch [3/3], Step [3236/3236], Loss: 1.7584, Perplexity: 5.8030      
 
 ## Credit
-Most of the code is based on the Udacity code for CNN and RNN models.  
+Most of the code is based on the Udacity code for CNN models, RNN models and Image Captoining.
