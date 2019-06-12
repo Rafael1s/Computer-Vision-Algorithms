@@ -60,4 +60,4 @@ We use _class Net_ from _models.py_, where the architecture of CNN is defined as
 
 ## Credit  
 
-Most of the code is based on the Udacity code.   
+Most of the code is based on the Udacity code for CNN models and Facial Key Points.   
