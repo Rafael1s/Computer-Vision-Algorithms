@@ -1,4 +1,4 @@
-## Computer Vision Nanodegree Udacity
+## Computer Vision Algorithms
 
 Here you can find several small (and slightly larger) subprojects dedicated to the well-known 
 Computer Vision approaches and algorithms. These subprojects are developed as part of the 
@@ -15,37 +15,37 @@ Several projects are devoted to [**_Deep Learning Arcitecture_**](https://en.wik
 ### Projects 
   Your can view and launch the following Python projects:
   
-[Fast detector of facial keypoints (ORB)](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Agorithm-ORB)
+[Fast detector of facial keypoints (ORB)](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Agorithm-ORB)
 
-[Hough Transform: Detect Lines and Circles](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Algorithm-HoughTransform) 
+[Hough Transform: Detect Lines and Circles](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Algorithm-HoughTransform) 
 
-[Steps of Canny Edge Detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Canny-Edge-Detector)
+[Steps of Canny Edge Detector](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Canny-Edge-Detector)
 
-[Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Day-Night-Classifier)
+[Binary Classifier for Day-Night Images](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Day-Night-Classifier)
 
-[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Sobel-Edge-Detector)
+[Edge Detection with Sobel Filters](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Sobel-Edge-Detector)
 
-[Find contours and their directions](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Find-Contours)
+[Find contours and their directions](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Find-Contours)
 
-[AdaBoost frontal face detector](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Haar-Cascades)
+[AdaBoost frontal face detector](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Haar-Cascades)
 
-[K-means clustering and Masking](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/K-Means-Clustering)
+[K-means clustering and Masking](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/K-Means-Clustering)
 
-[FashionMNIST Convolution Network](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/FashionMNIST-CNN)
+[FashionMNIST Convolution Network](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/FashionMNIST-CNN)
 
-[YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/YOLOv3_implementation)
+[YOLOv3 notebook implementation](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/YOLOv3_implementation)
 
-[High-Pass and Low-Pass Filters](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/HighPass_LowPass_Filters)
+[High-Pass and Low-Pass Filters](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/HighPass_LowPass_Filters)
 
-[Comparison of Color Models](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Comparison-Color-Models)
+[Comparison of Color Models](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Comparison-Color-Models)
 
-[CharacterLevel RNN with LSTM](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Character-Level-RNN_LSTM)
+[CharacterLevel RNN with LSTM](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Character-Level-RNN_LSTM)
 
-[Project 1:  Facial Key Points CNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-1_FacialKeyPoints)
+[Project 1:  Facial Key Points CNN](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Project-1_FacialKeyPoints)
 
-[Project 2: Image Captioning CNN+RNN](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-2_ImageCaptoining)
+[Project 2: Image Captioning CNN+RNN](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Project-2_ImageCaptoining)
 
-[Project 3: Graph-SLAM algorithm](https://github.com/Rafael1s/Computer-Vision-Udacity/tree/master/Project-3_LandmarkDetection_Traking(SLAM))
+[Project 3: Graph-SLAM algorithm](https://github.com/Rafael1s/Computer-Vision-Algorithms/tree/master/Project-3_LandmarkDetection_Traking(SLAM))
 
 ### Used OpenCV functions
 
@@ -81,6 +81,4 @@ The additional info about every project can be found in the README file related 
 
 ### Credit  
 
-I liked the course "Computer Vision Nanodegree".    
-Many thanks to Udacity for the high learning standards.   
-Most of the code in this repository is based on Udacity code.  
+Most of the code in this repository is based on Udacity's code.  
